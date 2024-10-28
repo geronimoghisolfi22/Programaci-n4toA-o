@@ -1,0 +1,12 @@
+def suma(x,y):
+    return print(x+y)
+def resta(x,y):
+    return print(x-y)
+def mult(x,y):
+    return print(x*y)
+def div(x,y):
+    return print(x/y)
+def poten(x,y):
+    return print(x**y)
+def raiz(x.y):
+    return print(x**(1/y))
